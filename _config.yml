@@ -9,7 +9,7 @@ carpentry: "swc"
 kind: "workshop"
 
 # Overall title for pages.
-title: "Software Carpentry - UNAM"
+title: "Workshop Title"
 
 # Repository URL (without trailing slash).
 repo: https://github.com/Tjips/2016-08-22-unam
@@ -19,7 +19,7 @@ repo: https://github.com/Tjips/2016-08-22-unam
 root: "/2016-08-22-unam"
 
 # Contact email address.
-email: 20126999@nwu.ac.za #lessons@software-carpentry.org
+email: lessons@software-carpentry.org
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
