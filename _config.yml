@@ -9,17 +9,17 @@ carpentry: "swc"
 kind: "workshop"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Software Carpentry - UNAM"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/swcarpentry/workshop-template
+repo: https://github.com/Tjips/2016-08-22-unam
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://swcarpentry.github.io/lesson-example', use '/lesson-example'.
-root: "/workshop-template"
+root: "/2016-08-22-unam"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: 20126999@nwu.ac.za #lessons@software-carpentry.org
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
